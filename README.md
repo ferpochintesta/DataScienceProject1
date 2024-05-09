@@ -1,4 +1,4 @@
-# DataScienceProject1
+# DataScienceProject
 This repository presents a Data Science project developed as part of a 6-month Bootcamp in the field. The project utilizes retail data to perform data cleaning and preprocessing, exploratory data analysis (EDA), RFM analysis, and training of three models: Customer Segmentation, Recommendation System, and Sales Prediction
 
 1. **Customer Clustering:** This model segments customers into distinct groups based on their purchasing behavior.
